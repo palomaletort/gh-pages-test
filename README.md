@@ -2,9 +2,9 @@
 
 ## Summary
 
-index.html is the main page.
+`index.html` is the main page.
 
-stlyes.css contains the design style specifications.
+`stlyes.css` contains the design style specifications.
 
 deployment via GitHub Pages. See `settings` for the GitHub repository
 
