@@ -1,17 +1,15 @@
-# title
+# Learning HTML, CSS
 
-## header 1
+## Summary
 
-### header 2
+index.html is the main page.
 
-text normal
+stlyes.css contains the design style specifications.
 
-## other h1
+deployment via GitHub Pages. See `settings` for the GitHub repository
 
-text normal, **now bold here**, but not after
+## Resources
 
-### other h2
+[W3 School on CSS](https://www.w3schools.com/cssref/index.php)
 
-### other h2
-
-pre after skl learning
+[HTML Color Names](https://www.w3schools.com/tags/ref_colornames.asp)
