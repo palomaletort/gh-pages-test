@@ -16,5 +16,5 @@ deployment via GitHub Pages. See `settings` for the GitHub repository
 
 
 
-Site URL:
-https://palomaletort.github.io/gh-pages-test/
+**Site URL:**
+`https://palomaletort.github.io/gh-pages-test/`
