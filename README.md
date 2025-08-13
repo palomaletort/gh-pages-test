@@ -13,3 +13,8 @@ deployment via GitHub Pages. See `settings` for the GitHub repository
 [W3 School on CSS](https://www.w3schools.com/cssref/index.php)
 
 [HTML Color Names](https://www.w3schools.com/tags/ref_colornames.asp)
+
+
+
+Site URL:
+https://palomaletort.github.io/gh-pages-test/
