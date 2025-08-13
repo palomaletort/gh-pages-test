@@ -24,3 +24,7 @@ p2 {
 * {
   background-color: MistyRose;
 }
+
+* .center {
+  text-align: center;
+}
